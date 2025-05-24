@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+a+Full-Stack+Developer+%F0%9F%91%8B;Aspiring+System+Designer+%F0%9F%8F%97%EF%B8%8F;Building+Amazing+Digital+Experiences+%F0%9F%9A%80;Always+Learning+%26+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+a+Full-Stack+Developer+%F0%9F%91%8B;Aspiring+System+Architect+%F0%9F%8F%97%EF%B8%8F;Building+Amazing+Digital+Experiences+%F0%9F%9A%80;Always+Learning+%26+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -50,46 +50,17 @@ const myApproach = {
 
 ### 🗄️ Databases
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" />
-  <br/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,oracle" />
 </div>
 
 ### 🔧 Tools & Technologies
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" />
-  <br/>
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ" />
-  <img src="https://img.shields.io/badge/Altair-FF6B6B?style=for-the-badge&logo=altair&logoColor=white" alt="Altair" />
-  <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver" />
-</div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahmed3656&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  
-  <br/><br/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed3656&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<br/><br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed3656&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<br/><br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed3656&theme=tokyo-night&bg_color=1a1b27&color=a9b1d6&line=f7768e&point=bb9af7&area=true&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,intellijidea,dbeaver" />
 </div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ahmed3656&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmed3656&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
 <div align="center">
@@ -116,39 +87,40 @@ const myApproach = {
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
-## 🎨 Code Contribution Heatmap
+<!-- ## 🎨 Code Contribution Heatmap
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ahmed3656&theme=tokyonight&layout=compact" alt="Coding Time" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ahmed3656&theme=tokyonight&layout=compact" alt="Coding Time" />
+</div> -->
 
 ## 💻 Development Metrics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmed3656&theme=tokyonight" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmed3656&theme=tokyonight" alt="Profile Summary" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahmed3656&theme=tokyonight" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ahmed3656&theme=tokyonight" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmed3656&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmed3656&theme=tokyonight" alt="Most Commit Language" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahmed3656&theme=tokyonight" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ahmed3656&theme=tokyonight&utcOffset=8" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmed3656&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmed3656&theme=tokyonight&utcOffset=8" alt="Productive Time" />
 </div>
 
-## 🔥 Contribution Flame
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed3656&theme=tokyonight&hide_border=true&stroke=0000&background=1A1B27&ring=F7768E&fire=F7768E&currStreakLabel=F7768E" alt="Contribution Flame" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmed3656&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed3656&theme=tokyonight&hide_border=true&stroke=0000&background=1A1B27&ring=F7768E&fire=F7768E&currStreakLabel=F7768E" alt="Contribution Flame" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ahmed3656&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Ahmed3656?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=ahmed3656&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/ahmed3656?label=Followers&style=social" alt="GitHub followers" />
 </div>
 
 <div align="center">
