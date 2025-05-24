@@ -55,7 +55,7 @@ const myApproach = {
 
 ### 🔧 Tools & Technologies
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,intellijidea,dbeaver" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </div>
 
 ## 🏆 GitHub Trophies
@@ -65,20 +65,6 @@ const myApproach = {
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</div>
-
-## 🌐 Connect With Me
-
-<div align="center">
-  <a href="mailto:ahmedamr4f@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/ahmed-amr3656">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://ahmed-amr-phi.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
-  </a>
 </div>
 
 ## 💡 Random Dev Quote
@@ -113,7 +99,60 @@ const myApproach = {
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmed3656&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed3656&theme=tokyonight&hide_border=true&stroke=0000&background=1A1B27&ring=F7768E&fire=F7768E&currStreakLabel=F7768E" alt="Contribution Flame" />
+</div>
+
+## 🌐 Connect With Me
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
+</div>
+
+<div align="center">
+  <h3>💬 Open to opportunities, collaborations, and tech discussions!</h3>
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <a href="mailto:ahmedamr4f@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Gmail" />
+        <br><strong>Email Me</strong>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://linkedin.com/in/ahmed-amr3656">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
+        <br><strong>Let's connect</strong>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://ahmed-amr-phi.vercel.app/">
+        <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF6B6B" alt="Portfolio" />
+        <br><strong>My Work</strong>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <br>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="200">
+  <br>
+  <h4>💡 Always excited to discuss:</h4>
+  <p>
+    <img src="https://img.shields.io/badge/System_Design-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="System Design" />
+    <img src="https://img.shields.io/badge/Full_Stack-61DAFB?style=flat-square&logo=react&logoColor=black" alt="Full Stack" />
+    <img src="https://img.shields.io/badge/Open_Source-181717?style=flat-square&logo=github&logoColor=white" alt="Open Source" />
+    <img src="https://img.shields.io/badge/Tech_Innovation-FF6B6B?style=flat-square&logo=lightbulb&logoColor=white" alt="Innovation" />
+  </p>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=75"/>
 </div>
 
 ---
