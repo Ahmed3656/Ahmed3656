@@ -35,12 +35,12 @@ const myApproach = {
 
 ### 💻 Programming Languages
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,cs,cpp,c" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,c,java,cs" />
 </div>
 
 ### 🎨 Frontend Development
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,html,css,tailwind,bootstrap" />
 </div>
 
 ### ⚙️ Backend Development
