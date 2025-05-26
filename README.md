@@ -50,7 +50,7 @@ const myApproach = {
 
 ### 🗄️ Databases
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,oracle" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" />
 </div>
 
 ### 🔧 Tools & Technologies
@@ -106,61 +106,49 @@ const myApproach = {
 ## 🌐 Connect With Me
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
+  <h3>Let's collaborate and build something amazing together</h3>
 </div>
 
 <div align="center">
-  <h3>💬 Open to opportunities, collaborations, and tech discussions!</h3>
-</div>
-
-<table align="center">
-  <tr>
-    <td align="center" width="200">
-      <a href="mailto:ahmedamr4f@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Gmail" />
-        <br><strong>Email Me</strong>
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://linkedin.com/in/ahmed-amr3656">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
-        <br><strong>Let's connect</strong>
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://ahmed-amr-phi.vercel.app/">
-        <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF6B6B" alt="Portfolio" />
-        <br><strong>My Work</strong>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <br>
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="200">
-  <br>
-  <h4>💡 Always excited to discuss:</h4>
-  <p>
-    <img src="https://img.shields.io/badge/System_Design-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="System Design" />
-    <img src="https://img.shields.io/badge/Full_Stack-61DAFB?style=flat-square&logo=react&logoColor=black" alt="Full Stack" />
-    <img src="https://img.shields.io/badge/Open_Source-181717?style=flat-square&logo=github&logoColor=white" alt="Open Source" />
-    <img src="https://img.shields.io/badge/Tech_Innovation-FF6B6B?style=flat-square&logo=lightbulb&logoColor=white" alt="Innovation" />
-  </p>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=75"/>
+  <table>
+    <tr>
+      <td align="center" width="250">
+        <a href="mailto:ahmedamr4f@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" />
+        </a>
+        <br/><br/>
+        <strong>📧 Direct Contact</strong>
+        <br/>
+        <sub>For project inquiries and opportunities</sub>
+      </td>
+      <td align="center" width="250">
+        <a href="https://linkedin.com/in/ahmed-amr3656">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
+        <br/><br/>
+        <strong>💼 Professional Network</strong>
+        <br/>
+        <sub>Connect for career opportunities</sub>
+      </td>
+      <td align="center" width="250">
+        <a href="https://ahmed-amr-phi.vercel.app/">
+          <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+        </a>
+        <br/><br/>
+        <strong>🚀 View My Work</strong>
+        <br/>
+        <sub>Explore my projects and case studies</sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-<div align="center">
+<!--<div align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmed3656&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/ahmed3656?label=Followers&style=social" alt="GitHub followers" />
-</div>
+</div>-->
 
 <div align="center">
   <h3>💖 Thanks for visiting my profile!</h3>
