@@ -116,7 +116,7 @@ const myApproach = {
         <a href="mailto:ahmedamr4f@gmail.com">
           <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" />
         </a>
-        <br/><br/>
+        <br/
         <strong>📧 Direct Contact</strong>
         <br/>
         <sub>For project inquiries and opportunities</sub>
@@ -125,16 +125,16 @@ const myApproach = {
         <a href="https://linkedin.com/in/ahmed-amr3656">
           <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
         </a>
-        <br/><br/>
+        <br/>
         <strong>💼 Professional Network</strong>
         <br/>
         <sub>Connect for career opportunities</sub>
       </td>
       <td align="center" width="250">
         <a href="https://ahmed-amr-phi.vercel.app/">
-          <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+          <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
         </a>
-        <br/><br/>
+        <br/>
         <strong>🚀 View My Work</strong>
         <br/>
         <sub>Explore my projects and case studies</sub>
@@ -143,9 +143,9 @@ const myApproach = {
   </table>
 </div>
 
----
+<!-- ---
 
-<!--<div align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmed3656&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/ahmed3656?label=Followers&style=social" alt="GitHub followers" />
 </div>-->
@@ -154,4 +154,3 @@ const myApproach = {
   <h3>💖 Thanks for visiting my profile!</h3>
   <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 </div>
-```
