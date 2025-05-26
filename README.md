@@ -114,7 +114,7 @@ const myApproach = {
     <tr>
       <td align="center" width="250">
         <a href="mailto:ahmedamr4f@gmail.com">
-          <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" />
+          <img src="https://img.icons8.com/?size=100&id=OumT4lIcOllS&format=png&color=000000" alt="Email" width="50"/>
         </a>
         <br/
         <strong>📧 Direct Contact</strong>
@@ -123,7 +123,7 @@ const myApproach = {
       </td>
       <td align="center" width="250">
         <a href="https://linkedin.com/in/ahmed-amr3656">
-          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+          <img src="https://img.icons8.com/fluency/96/linkedin.png" alt="LinkedIn" width="50"/>
         </a>
         <br/>
         <strong>💼 Professional Network</strong>
@@ -132,10 +132,10 @@ const myApproach = {
       </td>
       <td align="center" width="250">
         <a href="https://ahmed-amr-phi.vercel.app/">
-          <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+          <img src="https://img.icons8.com/?size=100&id=2963&format=png&color=34BFF0" alt="Portfolio" width="50"/>
         </a>
         <br/>
-        <strong>🚀 View My Work</strong>
+        <strong>🌐 View My Work</strong>
         <br/>
         <sub>Explore my projects and case studies</sub>
       </td>
