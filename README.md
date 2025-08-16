@@ -45,7 +45,7 @@ const myApproach = {
 
 ### ⚙️ Backend Development
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,graphql,qt" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,dotnet,graphql,qt" />
 </div>
 
 ### 🗄️ Databases
@@ -55,7 +55,7 @@ const myApproach = {
 
 ### 🔧 Tools & Technologies
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" />
 </div>
 
 ## 🏆 GitHub Trophies
@@ -67,7 +67,7 @@ const myApproach = {
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 
-## 💡 Random Dev Quote
+## 💡 Tech Quote of the Day
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
